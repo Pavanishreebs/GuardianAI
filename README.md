@@ -12,10 +12,10 @@ Insider threats account for a significant percentage of security breaches.
 
 Detecting anomalous behavior in real-time is challenging due to data complexity and evolving threat vectors.
 
-#GuardianAI integrates multiple AI modules to tackle cybersecurity threats in real time:
+*GuardianAI integrates multiple AI modules to tackle cybersecurity threats in real time:*
 
-Uses NLP for phishing classification.
-
+* Uses NLP for phishing classification.
+* 
 Deep learning for image/video authenticity checks.
 
 Machine learning for behavioral anomaly detection.
